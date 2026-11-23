@@ -2,7 +2,7 @@
 
 # Zile Huang
 
-I am third year undergraduate student at NYU, interested in cryptography and applied crytography. Now I am working with Mike Walfish and Zachery DeStefano on making zero knowledge proof system faster.
+I am a third year undergraduate student at NYU, interested in cryptography and applied cryptography. Now I am working with Mike Walfish and Zachery DeStefano on making zero knowledge proof system faster.
 
 I am also interested in poetry.
 
