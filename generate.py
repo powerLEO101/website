@@ -29,8 +29,8 @@ def main():
                    "--css", str(assets / "style.css"),
                    "--metadata", "pagetitle=" + source.stem,
                    "--embed-resources", "--output", str(output / (source.stem + ".html"))]
-        if source.suffix.lower() == ".txt":
-            command.extend(["--from", "markdown"])
+        if source.suffix.lower() in {".md", ".markdown", ".txt"}:
+            command.extend(["--from", "markdown-implicit_figures"])
         subprocess.run(command, check=True)
         print(output / (source.stem + ".html"))
 
