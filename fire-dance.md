@@ -24,7 +24,7 @@ I roll over and dictate a poem:
 
 I smile graciously at this 
 
-charming act of condescension
+[charming act of condescension]{.tooltip title="haha"}
 
 and my thirty-three wives applaud
 
@@ -46,7 +46,7 @@ fire sale. Yes, Sister Michele,
 
 it is all true: the fire dance
 
-you are waiting for in the next
+[you are waiting]{.tooltip title="why does this always get me?"} for in the next
 
 life happens every night
 
@@ -62,7 +62,7 @@ there is not a light on
 
 in the world and the ghosts
 
-of beauty have disppeared
+of beauty have disappeared
 
 and my pride has crossed over
 
