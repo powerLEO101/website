@@ -16,3 +16,7 @@ Zachary DeStefano, Noah Golub, **Zile Huang**, Julius Zhang, Sam Frank, and Mich
 
 1. **[This soup of chicken](https://www.tetheredliterary.com/issue-4/this-soup-of-chicken)**
 -- Tethered Literary
+
+## Misc
+
+[A poem a day](a-poem-a-day.html)
