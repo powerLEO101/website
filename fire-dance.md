@@ -24,7 +24,7 @@ I roll over and dictate a poem:
 
 I smile graciously at this 
 
-[charming act of condescension]{.tooltip title="haha"}
+charming act of condescension^[haha]
 
 and my thirty-three wives applaud
 
@@ -46,7 +46,7 @@ fire sale. Yes, Sister Michele,
 
 it is all true: the fire dance
 
-[you are waiting]{.tooltip title="why does this always get me?"} for in the next
+you are waiting^[why does this always get me?] for in the next
 
 life happens every night
 
